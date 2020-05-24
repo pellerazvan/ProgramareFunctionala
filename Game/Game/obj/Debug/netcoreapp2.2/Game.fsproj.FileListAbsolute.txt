@@ -1,0 +1,10 @@
+D:\Files\#Github\ProgramareFunctionala\Game\Game\bin\Debug\netcoreapp2.2\Game.deps.json
+D:\Files\#Github\ProgramareFunctionala\Game\Game\bin\Debug\netcoreapp2.2\Game.runtimeconfig.json
+D:\Files\#Github\ProgramareFunctionala\Game\Game\bin\Debug\netcoreapp2.2\Game.runtimeconfig.dev.json
+D:\Files\#Github\ProgramareFunctionala\Game\Game\bin\Debug\netcoreapp2.2\Game.dll
+D:\Files\#Github\ProgramareFunctionala\Game\Game\bin\Debug\netcoreapp2.2\Game.pdb
+D:\Files\#Github\ProgramareFunctionala\Game\Game\obj\Debug\netcoreapp2.2\Game.fsprojAssemblyReference.cache
+D:\Files\#Github\ProgramareFunctionala\Game\Game\obj\Debug\netcoreapp2.2\Game.AssemblyInfoInputs.cache
+D:\Files\#Github\ProgramareFunctionala\Game\Game\obj\Debug\netcoreapp2.2\Game.AssemblyInfo.fs
+D:\Files\#Github\ProgramareFunctionala\Game\Game\obj\Debug\netcoreapp2.2\Game.dll
+D:\Files\#Github\ProgramareFunctionala\Game\Game\obj\Debug\netcoreapp2.2\Game.pdb
