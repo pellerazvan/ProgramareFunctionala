@@ -1,0 +1,10 @@
+D:\Files\#Github\ProgramareFunctionala\IntroducereFSharp\IntroducereFSharp\bin\Debug\netcoreapp2.2\IntroducereFSharp.deps.json
+D:\Files\#Github\ProgramareFunctionala\IntroducereFSharp\IntroducereFSharp\bin\Debug\netcoreapp2.2\IntroducereFSharp.runtimeconfig.json
+D:\Files\#Github\ProgramareFunctionala\IntroducereFSharp\IntroducereFSharp\bin\Debug\netcoreapp2.2\IntroducereFSharp.runtimeconfig.dev.json
+D:\Files\#Github\ProgramareFunctionala\IntroducereFSharp\IntroducereFSharp\bin\Debug\netcoreapp2.2\IntroducereFSharp.dll
+D:\Files\#Github\ProgramareFunctionala\IntroducereFSharp\IntroducereFSharp\bin\Debug\netcoreapp2.2\IntroducereFSharp.pdb
+D:\Files\#Github\ProgramareFunctionala\IntroducereFSharp\IntroducereFSharp\obj\Debug\netcoreapp2.2\IntroducereFSharp.fsprojAssemblyReference.cache
+D:\Files\#Github\ProgramareFunctionala\IntroducereFSharp\IntroducereFSharp\obj\Debug\netcoreapp2.2\IntroducereFSharp.AssemblyInfoInputs.cache
+D:\Files\#Github\ProgramareFunctionala\IntroducereFSharp\IntroducereFSharp\obj\Debug\netcoreapp2.2\IntroducereFSharp.AssemblyInfo.fs
+D:\Files\#Github\ProgramareFunctionala\IntroducereFSharp\IntroducereFSharp\obj\Debug\netcoreapp2.2\IntroducereFSharp.dll
+D:\Files\#Github\ProgramareFunctionala\IntroducereFSharp\IntroducereFSharp\obj\Debug\netcoreapp2.2\IntroducereFSharp.pdb
